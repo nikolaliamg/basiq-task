@@ -12,6 +12,4 @@ npm run serve
 
 ### Description
 
--Chained requests created
--Axios use for making request
--Simple algorithm for processing transaction data
+Chained requests created. Axios use for making request. Simple algorithm for processing transaction data
